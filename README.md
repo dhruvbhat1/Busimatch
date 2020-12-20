@@ -1,7 +1,6 @@
 # Busimatch
 
 **Introduction to Busimatch Android Application**
-
 In our project we are trying to solve the problem of ﬁnding a business partner by creating an android application that will help anyone ﬁnd their ideal partner.
 Using our platform which will provide the function of applying ﬁlters and searching for business partners in accordance with the ﬁeld of interest of the user.
 This application will solve the problem of starting a business with a partner to a great extend with its potential.
